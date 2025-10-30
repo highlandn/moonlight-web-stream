@@ -1,0 +1,6 @@
+{
+  "webrtc_nat_1to1": {
+    "ice_candidate_type": "host",
+    "ips": ["${SERVER_IP}"]
+  }
+}
